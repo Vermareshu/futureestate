@@ -6,7 +6,7 @@
     <div class="row h-100 align-items-center justify-content-between">
       <div class="ms-auto col-lg-6 col-md-6 about-section mt-4">
         <div class="logo">
-          <img src="./images/logo.png" alt="Future World Logo" width="200" />
+          <img src="./images/logo.jpg" alt="Future World Logo" width="200" />
         </div>
         <p class="text-light">
           Future Estate is an innovative project located at Plot No. GH16E,
@@ -69,7 +69,7 @@
 
       <div
         class="col-md-6 p-0 section-7 text-light d-flex flex-column align-items-center justify-content-center sec1BackClr">
-        <img src="images/7.png" width="100%" alt="" />
+        <img src="images/7.jpg" width="100%" alt="" />
       </div>
     </div>
   </div>
@@ -111,7 +111,7 @@
         <div class="col-lg-6 position-relative p-2">
 
           <div class="position-absolute top-0 h-100 p-2 start-0">
-            <img src="images/9.png" width="100%" alt="" class="h-100 object-fit-cover" />
+            <img src="images/9.jpg" width="100%" alt="" class="h-100 object-fit-cover" />
           </div>
           <div class="position-relative overlay h-100 d-flex justify-content-center p-2 flex-column">
             <h5>Educational Institutions:</h5>
@@ -124,7 +124,7 @@
         <div class="col-lg-6 position-relative p-2">
 
           <div class="position-absolute top-0 h-100 p-2 start-0">
-            <img src="images/10.png" width="100%" alt="" class="h-100 object-fit-cover" />
+            <img src="images/10.jpg" width="100%" alt="" class="h-100 object-fit-cover" />
 
           </div>
           <div class="position-relative overlay h-100 d-flex justify-content-center p-2 flex-column">
@@ -138,7 +138,7 @@
         </div>
         <div class="col-lg-6 position-relative p-2">
           <div class="position-absolute top-0 h-100 p-2 start-0">
-            <img src="images/11.png" width="100%" alt="" class="h-100 object-fit-cover" />
+            <img src="images/11.jpg" width="100%" alt="" class="h-100 object-fit-cover" />
           </div>
           <div class="position-relative overlay h-100 d-flex justify-content-center p-2 flex-column">
             <h5>Healthcare Facilities:</h5>
@@ -148,7 +148,7 @@
         </div>
         <div class="col-lg-6 position-relative p-2">
           <div class="position-absolute top-0 h-100 p-2 start-0">
-            <img src="images/12.png" width="100%" alt="" class="h-100 object-fit-cover" />
+            <img src="images/12.jpg" width="100%" alt="" class="h-100 object-fit-cover" />
           </div>
           <div class="position-relative overlay h-100 d-flex justify-content-center p-2 flex-column">
             <h5>Business Hubs:</h5>
@@ -169,7 +169,7 @@
     <h3 class="text-center mb-3">Amenities</h3>
     <div class="col-sm-4 p-4">
       <div class="position-relative d-flex justify-content-center align-items-center flex-column aspect-rectangle">
-        <img src="images/14.png" width="100%" alt="" class="position-absolute h-100 object-fit-cover" />
+        <img src="images/14.jpg" width="100%" alt="" class="position-absolute h-100 object-fit-cover" />
         <div class="position-relative amenitiesCardText">
           <h6 class="mt-2">OPEN GYM</h6>
           <p class="sec4CustomFont">
@@ -181,7 +181,7 @@
     </div>
     <div class="col-sm-4 p-4">
       <div class="position-relative d-flex justify-content-center align-items-center flex-column aspect-rectangle">
-        <img src="images/fav.png" width="100%" alt="" class="position-absolute h-100 object-fit-cover" />
+        <img src="images/fav.jpg" width="100%" alt="" class="position-absolute h-100 object-fit-cover" />
         <div class="position-relative amenitiesCardText">
           <h6 class="mt-2">INTERIOR GYM</h6>
           <p class="sec4CustomFont">
@@ -193,7 +193,7 @@
     </div>
     <div class="col-sm-4 p-4">
       <div class="position-relative d-flex justify-content-center align-items-center flex-column aspect-rectangle">
-        <img src="images/16.png" width="100%" alt="" class="position-absolute h-100 object-fit-cover" />
+        <img src="images/16.jpg" width="100%" alt="" class="position-absolute h-100 object-fit-cover" />
         <div class="position-relative amenitiesCardText">
           <h6>LIBRARY</h6>
           <p class="sec4CustomFont">
@@ -207,7 +207,7 @@
     <div class="row justify-content-evenly"></div>
     <div class="col-sm-4 p-4">
       <div class="position-relative d-flex justify-content-center align-items-center flex-column aspect-rectangle">
-        <img src="images/17.png" width="100%" alt="" class="position-absolute h-100 object-fit-cover" />
+        <img src="images/17.jpg" width="100%" alt="" class="position-absolute h-100 object-fit-cover" />
         <div class="position-relative amenitiesCardText">
           <h6 class="mt-2">YOGA</h6>
           <p class="sec4CustomFont">
@@ -219,7 +219,7 @@
     </div>
     <div class="col-sm-4 p-4">
       <div class="position-relative d-flex justify-content-center align-items-center flex-column aspect-rectangle">
-        <img src="images/FW Brochure img.png" width="100%" alt="" class="position-absolute h-100 object-fit-cover" />
+        <img src="images/FW Brochure img.jpg" width="100%" alt="" class="position-absolute h-100 object-fit-cover" />
         <div class="position-relative amenitiesCardText">
           <h6 class="mt-2">ZUMBA CLASSES</h6>
           <p class="sec4CustomFont mb-3">
@@ -232,7 +232,7 @@
     </div>
     <div class="col-sm-4 p-4">
       <div class="d-flex justify-content-center align-items-center flex-column position-relative aspect-rectangle">
-        <img src="images/19.png" width="100%" alt="" class="h-100 object-fit-cover position-absolute" />
+        <img src="images/19.jpg" width="100%" alt="" class="h-100 object-fit-cover position-absolute" />
         <div class="position-relative amenitiesCardText">
           <h6>CAFETERIA</h6>
           <p class="sec4CustomFont">
@@ -288,7 +288,7 @@
       </div>
     </div>
     <div class="col-lg-6 h-100">
-      <img src="images/15.png" width="100%" alt="" class="h-100" />
+      <img src="images/15.jpg" width="100%" alt="" class="h-100" />
     </div>
   </div>
 </div>
@@ -299,11 +299,11 @@
   <div class="py-4 px-3" style="height: 60vh">
     <div class="swiper mySwiper container">
       <div class="swiper-wrapper">
-        <div class="swiper-slide"><img src="images/26.png" alt="" /></div>
-        <div class="swiper-slide"><img src="images/27.png" alt="" /></div>
-        <div class="swiper-slide"><img src="images/28.png" alt="" /></div>
-        <div class="swiper-slide"><img src="images/29.png" alt="" /></div>
-        <div class="swiper-slide"><img src="images/30.png" alt="" /></div>
+        <div class="swiper-slide"><img src="images/26.jpg" alt="" /></div>
+        <div class="swiper-slide"><img src="images/27.jpg" alt="" /></div>
+        <div class="swiper-slide"><img src="images/28.jpg" alt="" /></div>
+        <div class="swiper-slide"><img src="images/29.jpg" alt="" /></div>
+        <div class="swiper-slide"><img src="images/30.jpg" alt="" /></div>
       </div>
       <div class="swiper-pagination"></div>
     </div>
@@ -315,7 +315,7 @@
 
 <div class="section container-fluid">
   <div class="col-lg-6">
-    <img src="images/bed.png" alt="" />
+    <img src="images/bed.jpg" alt="" />
   </div>
   <div class="col-lg-6 p-md-4 specs">
     <h3>SPECIFICATIONS</h3>
@@ -383,7 +383,7 @@
     </p>
   </div>
   <div class="col-lg-6">
-    <img src="images/location.png" alt="" />
+    <img src="images/location.jpg" alt="" />
   </div>
 </div>
 <!-- Location advantages end -->
@@ -430,7 +430,7 @@
     </div>
     <div class="col-md-6 about-section">
       <div class="logo">
-        <img src="./images/logo.png" alt="Future World Logo" width="200" />
+        <img src="./images/logo.jpg" alt="Future World Logo" width="200" />
       </div>
       <div class="h1">ABOUT FUTURE WORLD</d>
       <p class="text-light">

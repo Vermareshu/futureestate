@@ -3,10 +3,10 @@
     <div class="container-fluid">
         <div class="row align-items-center justify-content-center text-center">
             <div class="col-md-3">
-                <img src="images/logo.png" alt="Future World Logo" class="img-fluid w-100" />
+                <img src="images/logo.jpg" alt="Future World Logo" class="img-fluid w-100" />
             </div>
             <!-- <div class="col-md-3">
-                <img src="images/developerLogo.png" alt="Rhythm County Logo" class="img-fluid" />
+                <img src="images/developerLogo.jpg" alt="Rhythm County Logo" class="img-fluid" />
             </div> -->
         </div>
 

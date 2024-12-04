@@ -90,7 +90,7 @@ body {
 
 .specs {
   background-color: #1b0f0cb3;
-  background-image: url(bed.png);
+  background-image: url(bed.jpg);
   background-position: center;
   background-size: cover;
   background-blend-mode: overlay;
@@ -103,7 +103,7 @@ body {
 
 .location {
   background-color: #1b0f0cb3;
-  background-image: url(location.png);
+  background-image: url(location.jpg);
   background-position: center;
   background-size: cover;
   background-blend-mode: overlay;
@@ -218,7 +218,7 @@ footer .registration p {
   background: #111928;
   color: #cecece;
   background-image: linear-gradient(to left , rgba(0, 0, 0), rgba(0, 0, 0,0.5)),
-  url("../../images/5.png");
+  url("../../images/5.jpg");
   background-size: cover;
 }
 
@@ -242,7 +242,7 @@ footer .registration p {
 }
 .cutomSection {
   background-image: linear-gradient(to left , rgba(0, 0, 0), rgba(0, 0, 0,0.5)),
-    url("../../images/heroBg.png");
+    url("../../images/heroBg.jpg");
   background-size: cover;
   background-position: center;
   background-color: #1b0f0c80;
@@ -253,7 +253,7 @@ footer .registration p {
 }
 
 .customContainer {
-  background-image: url("../../images/building.png");
+  background-image: url("../../images/building.jpg");
   /* Add image on the left */
   background-size: cover;
   background-repeat: no-repeat;
@@ -371,7 +371,7 @@ footer .registration p {
   }
 }
 .sec1CustomBack {
-  background-image: url("../../images/FW\ Brochure\ copy1.png");
+  background-image: url("../../images/FW\ Brochure\ copy1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: overlay;
@@ -410,7 +410,7 @@ footer .registration p {
 /* Golf Cart Section */
 .golf-section {
   height: 100vh;
-  background-image: url("../../images/23.png");
+  background-image: url("../../images/23.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -474,7 +474,7 @@ footer .registration p {
 @media (min-width: 768px) {
   .cutomSection {
     background-image: linear-gradient(to left , rgba(0, 0, 0), rgba(0, 0, 0, 0)),
-      url("../../images/heroBg.png");
+      url("../../images/heroBg.jpg");
     height: 80vh;
     
   }
@@ -492,7 +492,7 @@ footer .registration p {
 }
 @media (max-width: 768px) {
   .security-section .content {
-    background-image: url(./images/7.png);
+    background-image: url(./images/7.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -507,7 +507,7 @@ footer .registration p {
     display: none;
   }
   .fun-section .content {
-    background-image: url(./images/21.png);
+    background-image: url(./images/21.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
